@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"><img src="https://avatars3.githubusercontent.com/u/42429710?s=460&u=2f00bd97beacf05c387fad102f0da844dc213d8f&v=4" width=150 /></h1>
+<h1 align="center"> Valsaraj R here 👋 </h1>
+<h2 align="center"> 🖌 UIX Designer, Developer 🥰 and a Human with wings 🧚‍♂️</h2>
+<h3 align="center"> 🧑‍💻 Building awesome things for awesome people 🤩</h3>
+<h3 align="center"> 🥳 Yes!! I love Ironman! I love to say 😍 </h3>
+<h3 align="center">🦸🏻 I'm Iron Man 🦾</h3>
+
 
 <!--
 **ivalsaraj/ivalsaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
