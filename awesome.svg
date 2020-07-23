@@ -310,9 +310,7 @@
          </style>
          <div class="container">
             <div class="profile-img"></div>
-               <ul class="c-rainbow">
-                  <li class="c-rainbow__layer c-rainbow__layer--white">Valsaraj Here</li>
-               </ul>
+            <h1>Valsaraj Here</h1>
             <div class="profile-content">
                <p class="shake-anim">👋</p>
                <div class="profile-sub">
