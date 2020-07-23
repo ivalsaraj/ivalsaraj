@@ -313,7 +313,7 @@
             <div class="profile-img"></div>
             <h1>Valsaraj Here</h1>
             <div class="profile-content">
-               <p class="shake-anim">👋</p>
+               <h1 class="shake-anim">👋</h1>
                <div class="profile-sub">
                   <div class="sign">
                      <span class="fast-flicker">Human</span>With<span class="flicker" style="margin-right:0">W</span>ings
