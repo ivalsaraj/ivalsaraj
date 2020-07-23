@@ -205,11 +205,6 @@
   align-items: center;
      width: 119%;
     height:70%;
-  background-image: radial-gradient(
-    ellipse 50% 35% at 50% 50%,
-    #6b1839,
-    transparent
-  );
   transform: translate(-50%, -50%);
   letter-spacing: 2;
   left: 50%;
@@ -238,12 +233,10 @@
   28%,
   33% {
     color: #ff65bd;
-    text-shadow: none;
   }
   82%,
   97% {
     color: #ff2483;
-    text-shadow: none;
   }
 }
 
@@ -405,12 +398,6 @@
             <div class="profile-img"></div>
                <ul class="c-rainbow">
                   <li class="c-rainbow__layer c-rainbow__layer--white">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--orange">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--red">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--violet">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--blue">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--green">Valsaraj Here</li>
-                  <li class="c-rainbow__layer c-rainbow__layer--yellow">Valsaraj Here</li>
                </ul>
             <div class="profile-content">
                <p class="shake-anim">👋</p>
@@ -419,13 +406,13 @@
                      <span class="fast-flicker">Human</span>With<span class="flicker" style="margin-right:0">W</span>ings
                   </div>
                </div>
-               <p>🖌 UIX Designer, Developer 🥰 and a Human with wings <span class="flying-angel">🧚</span></p>
+               <p class="fadeIn">🖌 UIX Designer, Developer 🥰 and a Human with wings <span class="flying-angel">🧚</span></p>
                
-               <p>🧑‍💻 Building awesome things for awesome people 🤩</p>
-               <p>
+               <p class="fadeIn">🧑‍💻 Building awesome things for awesome people 🤩</p>
+               <p class="fadeIn">
                   🥳 Yes!! I love Ironman! I love to say 😍
                </p>
-               <p>
+               <p class="fadeIn">
                   🦸🏻 I'm Iron Man 🦾
                </p>
             </div>
