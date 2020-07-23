@@ -203,8 +203,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
-  height: 50%;
+     width: 119%;
+    height:70%;
   background-image: radial-gradient(
     ellipse 50% 35% at 50% 50%,
     #6b1839,
@@ -220,6 +220,9 @@
     -0.2rem 0.1rem 1rem #ff65bd, 0.2rem 0.1rem 1rem #ff65bd,
     0 -0.5rem 2rem #ff2483, 0 0.5rem 3rem #ff2483;
   animation: shine 2s forwards, flicker 3s infinite;
+}
+            .sign * {
+    margin: 0 16px;
 }
 
 @keyframes blink {
@@ -390,6 +393,12 @@
     opacity: 1;
   }
 }
+            .profile-sub {
+    display: block;
+    height: 109px;
+    margin-bottom: 73px;
+    z-index: 0;
+}
 
          </style>
          <div class="container">
@@ -407,7 +416,7 @@
                <p class="shake-anim">👋</p>
                <div class="profile-sub">
                   <div class="sign">
-                     <span class="fast-flicker">Human</span>With<span class="flicker">W</span>ings
+                     <span class="fast-flicker">Human</span>With<span class="flicker" style="margin-right:0">W</span>ings
                   </div>
                </div>
                <p>🖌 UIX Designer, Developer 🥰 and a Human with wings <span class="flying-angel">🧚</span></p>
