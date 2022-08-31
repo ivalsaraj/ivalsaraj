@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=300&lines=Hi+Hacker+%3A);I'm+Raj+%F0%9F%98%8A;Designer+by+Heart;Entrepreneur+by+Night;Love+to+meet+new+people;Say+'hi'+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2000&pause=500&color=F7F7F7&center=false&vCenter=true&multiline=true&width=435&height=300&lines=Hi+Hacker+%3A);I'm+Raj+%F0%9F%98%8A;Designer+by+Heart;Entrepreneur+by+Night;Love+to+meet+new+people;Say+'hi'+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/ivalsaraj/" target="_blank">
@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/ivalsaraj/" target="_blank">
 <img alt='instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=F02D6E&color=F02D6E'/>
   </a>
-
+</br>
 - 👋 Hi, I’m Raj
 - 💼 I'm not working anymore, I love what I do.
 - ⚒️ Building Helixo + many more as "People-First Company".
