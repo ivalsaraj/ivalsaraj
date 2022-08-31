@@ -23,7 +23,7 @@
   
 - 👋 Hi, I’m Raj
 - 💼 I'm not working anymore, I love what I do.
-- ⚒️ Building Helixo + many more as "People-First Company".
+- ⚒️ Building Helixo & other ventures as "People-First" Companies.
 - 💬 Talks about D2C, Product Building, Growth Hacks and Productivity.
 - ❓ Want to solve next human problems? Say 'hi', let's talk.
 - 👯 Love to meet awesome people drive by passion.
