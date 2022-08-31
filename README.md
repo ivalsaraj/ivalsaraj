@@ -28,3 +28,10 @@
 - ❓ Want to solve next human problems? Say 'hi', let's talk.
 - 👯 Love to meet awesome people drive by passion.
 - 🤖 ..and there is a secret, I'm Ironman.
+<p align='center'>
+</p>
+<h2>Favourite Quotes</h2>
+<i>“The greatest project you'll ever work on it you!” —— Sonny Franco</i>
+<i>“Where your fear is, There is your task” —— Carl Jung</i>
+<i>“Learn the rules like a pro, so you can break them like an artist” —— Pablo Picasso</i>
+<i>“A beautiful product that doesn't work very well is ugly” —— Jonathan Ive, Former Apple CDO</i>
